@@ -9,7 +9,7 @@ models. Each model has its own strengths and limitations. This paper aims to del
 and methods will be presented. The main contents of this paper include the following:
 1. We focus on efficient exploration and practical implementation of early methods for Aspect Based
 Sentiment Analysis. The task is divided into two subtasks: aspect term extraction and aspect term
-classification. Machine learning models, specifically random vector fields and support vector machines, are employed for training and prediction. The performance of these models is compared and
+classification. Machine learning models, specifically random vector fields and support vector machines, are employed for training and prediction. The performance of these models is compared and
 discussed in comparison to other classical models.
 2. in single model machine learning, deep learning methods such as convolutional neural networks are
 employed for processing. Gated units are utilized to filter and identify aspect terms, integrating the
